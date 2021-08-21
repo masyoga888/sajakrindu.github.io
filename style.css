@@ -1,0 +1,22 @@
+element.style {
+}
+body {
+    background: #683b20 url(https://static.tumblr.com/h3aw40n/KGtkopm5f/background.jpg);
+}
+body {
+    background: #683b20 url(https://static.tumblr.com/h3aw40n/KGtkopm5f/background.jpg) top left fixed;
+    font-family: Futura, Georgia, Helvetica, Arial, serif;
+    font-size: 12px;
+    color: #000000;
+}
+* { 
+    margin: 3px;
+    padding: 2px;
+    -moz-outline-style: none;
+    outline: none;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 7px;
+}
